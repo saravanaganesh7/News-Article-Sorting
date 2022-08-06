@@ -16,4 +16,4 @@ jsonify
 keras==2.9.0
 nltk==3.7
 sklearn
-tensorflow==2.9.1
+tensorflow-cpu
