@@ -3,3 +3,4 @@ averaged_perceptron_tagger
 wordnet
 brown
 stopwords
+omw-1.4
