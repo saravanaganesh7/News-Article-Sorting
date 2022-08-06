@@ -15,5 +15,5 @@ joblib
 jsonify
 keras==2.9.0
 nltk==3.7
-sklearn==1.1.1
+sklearn
 tensorflow==2.9.1
