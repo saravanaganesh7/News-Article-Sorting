@@ -21,6 +21,10 @@ on complete end-to-end machine learning project.
 To View the Deployed Application, click on the link given below : BBC News Classifier Web App - https://newsarticlesorting.herokuapp.com/
 
 
+https://user-images.githubusercontent.com/63314917/183256570-b7a58670-c990-4842-8999-96679633ff09.mp4
+
+
+
 
 ![](metro_interstate_gif.gif)
 
