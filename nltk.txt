@@ -1,0 +1,6 @@
+punkt
+stopwords
+averaged_perceptron_tagger
+wordnet
+pros_cons
+reuters
